@@ -18,7 +18,7 @@ Fitur yang tersedia:
 Menampilkan status stok: stok ada, menipis, atau habis
 ## Daftar File
 * `managestok.c` : Kode program utama menggunakan bahasa C.
-* `manage-stock.py` : Kode program utama menggunakan bahasa Python.
+* `managestock.py` : Kode program utama menggunakan bahasa Python.
 * `output-program.png` : Screenshot hasil menjalankan program aplikasi.
 ## Screenshot Output Program
 ![Output Program](output-program.png)
